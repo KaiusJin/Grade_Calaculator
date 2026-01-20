@@ -68,7 +68,7 @@ The exported CSV contains the following columns:
 Semester: Name of the academic term.
 
 Course: Name of the course.
-
+   
 Path: The hierarchical path (e.g., Assignments/Quizzes/Quiz1).
 
 Weight: The item's percentage weight relative to the course total.
