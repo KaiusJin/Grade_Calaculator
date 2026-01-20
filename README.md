@@ -1,4 +1,4 @@
-# Grade_Calaculator
+# Grade_Calaculator 
 Grade Calculator is a lightweight, Python-based web application designed for students to efficiently manage and estimate grade distributions across multiple terms and courses. It features a high-impact visual interface and supports complex recursive grade structures (nested sub-categories).
 
 🚀 Key Features
